@@ -28,6 +28,3 @@ EnhancedVolcano(mat,lab = rownames(mat),x = 'log2FC' ,y ='pvalue')
 
 
 #write.csv(mat, file = "deg.csv")
-
-dim(logcpm)
-logcpm
